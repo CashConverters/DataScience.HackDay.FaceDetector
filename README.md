@@ -1,7 +1,7 @@
 # DataScience.HackDay.FaceDetector
 
 #### To run locally
-- install required dependencies: `pip install -r requirement.txt`
+- install required dependencies: `pip install -r requirements.txt`
 - run app: `uvicorn app.main:app --host 0.0.0.0 --port 8002 --reload`
 
 #### To build docker container and push to azure
