@@ -5,8 +5,6 @@ from typing import Union
 
 from fastapi import FastAPI, File, UploadFile
 
-#from app.mugshot_detector import is_mugshot
-
 app = FastAPI()
 
 
